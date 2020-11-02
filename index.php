@@ -103,6 +103,7 @@
             <span class="text-muted">Copyright &copy;2020, <a href="https://packetcode.in" target="_blank">Packetcode</a></span>
         </div>
     </footer>
-
+<script> window._peq = window._peq || []; window._peq.push(["init"]); </script>
+<script src="https://clientcdn.pushengage.com/core/f3f86c41-9942-436d-9ed6-99190ff2.js" async></script>
 </body>
 </html>
